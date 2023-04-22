@@ -1,7 +1,7 @@
 # Snack-Squad-
 
 Google Developers profile link:
-   Liveyana R D- https://g.dev/liveyana-rd
+   Liveyana R D - https://g.dev/liveyana-rd
    Roshini R - https://g.dev/RoshiniRobert
    Santhiya A - https://g.dev/SanthiyaSA
    Jincy W N - https://g.dev/jincywn
